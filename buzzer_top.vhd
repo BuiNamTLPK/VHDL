@@ -48,3 +48,4 @@ Dut_1 : component pulse_without_circulation
 Dut_2 : component buzzer 
 	port map (clk, reg, bz_out);
 end structure;
+-- hello my name is Nam
